@@ -1,0 +1,17 @@
+1. User authentication
+    There should be a way for the server to know that a client is noe a malicious user, that is people with no foul intentions should be able to make accounts/symbols.
+
+2. No user crosses "lines"
+    There should be a way to ensure that the user have justification for the amount of symbols they have. No one should be able to just randomly make a billion shares of google/apple in their accounts
+
+3. Data integrity
+    There should be a way to ensure that the data sent by a user has not been tampered with in transit
+
+4. Sanity checks for input
+    The server should perform proper sanity checks while parsing any input received from a user/client to avoid the possiblity of things like SQL injection
+
+5. Robust account management
+    No user should be able to tamper with another user's positions account information
+
+6. Order matching sense
+    No order should be matched by an open order that belongs to the same account

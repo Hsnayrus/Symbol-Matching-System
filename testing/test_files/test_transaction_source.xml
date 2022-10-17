@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<transactions id="123456"><order sym="X" amount="300" limit="125" /><order sym="X" amount="-100" limit="130" /><order sym="X" amount="200" limit="127" /><order sym="X" amount="-500" limit="128" /><order sym="X" amount="-200" limit="140" /><order sym="X" amount="400" limit="125" /><query id="4557" /><cancel id="7749" /></transactions>

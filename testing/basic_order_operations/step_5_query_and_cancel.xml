@@ -1,0 +1,4 @@
+<transactions id="12345">
+    <query id="2"/>
+    <cancel id="1"/>
+</transactions>

@@ -1,0 +1,8 @@
+Buy 300 X @ $125
+Sell 100 X @ $130
+Buy 200 X @ $127
+Sell 500 X @ $128
+Sell 200 X @ $140
+Buy 400 X @ $125
+Query 34557
+Cancel 277493

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results><created id="1234" /><created id="432" /><created sym="SPY" id="239487" /><created sym="SNP500" id="48893" /><error id="468289">Error response 1</error><error id="74992">Error response 2</error><error sym="SPY" id="37772">Error response 3</error></results>
